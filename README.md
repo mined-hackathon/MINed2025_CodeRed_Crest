@@ -48,6 +48,4 @@ A machine learning-based malware detection system developed during MINeD Hackath
 
 ## 🚀 Getting Started
 
-### Prerequisites
-```python
-pip install -r requirements.txt
+
